@@ -31,7 +31,7 @@ def main():
     with gas_price_cont:
         gas_price = st.number_input('Gas price (€/L):', value=1.83, step=0.01)
     with elec_price_cont:
-        elec_price = st.number_input('Electricity price (€/kWh):', value=0.39, step=0.01) / 100
+        elec_price = st.number_input('Electricity price (€/kWh):', value=0.11, step=0.01) / 100
     with gas_efficiency_cont:
         gas_efficiency = st.number_input('Gas efficiency (L/100km):', value=7.0, step=0.5) / 100
     with elec_efficiency_cont:
