@@ -14,9 +14,9 @@ The parameters are the following:
 * Electric efficiency (kWh/100km)
 
 Standard values are set for a Renault Twingo (full electric) and a Kia Venga (gasoline).
-By setting a trip length in kilometers it is possible to calculate how much the trip would cost with eiter car.
+By setting a trip length in kilometers it is possible to calculate how much the trip would cost with either car.
 
 
 ## Disclaimer:
-This is simply a calculator that estimates the cost of a trip. Before buying an electric car it is definitely worth checking local gas/electricity price, average temperature and other factors.
+This is simply a calculator that estimates the cost of a trip. Before buying an electric car it is definitely worth checking local gas/electricity price, charging station availability, average temperature and other factors.
 For educational purposes only.
